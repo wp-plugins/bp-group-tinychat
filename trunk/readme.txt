@@ -24,7 +24,7 @@ create new group and click enable group tinychat.
 
 http://www.youtube.com/watch?v=D_t4br_CpAE
 
-<img src="http://teen-diary.com/apps/image/screenshot-1.png"></img>
+http://teen-diary.com/apps/image/screenshot-1.png
 
 http://teen-diary.com/apps/image/screenshot-2.png
 

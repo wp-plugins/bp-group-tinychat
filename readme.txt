@@ -23,10 +23,10 @@ create new group and click enable group tinychat.
 == Screenshots ==
 
 http://www.youtube.com/watch?v=D_t4br_CpAE
-http://plugins.svn.wordpress.org/bp-group-tinychat/trunk/screenshot-1.png
-http://plugins.svn.wordpress.org/bp-group-tinychat/trunk/screenshot-2.png
-http://plugins.svn.wordpress.org/bp-group-tinychat/trunk/screenshot-3.png
-http://plugins.svn.wordpress.org/bp-group-tinychat/trunk/screenshot-4.png
+http://teen-diary.com/apps/image/screenshot-1.png
+http://teen-diary.com/apps/image/screenshot-2.png
+http://teen-diary.com/apps/image/screenshot-3.png
+http://teen-diary.com/apps/image/screenshot-4.png
 
 == Notes ==
 

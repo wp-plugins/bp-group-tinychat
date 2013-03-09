@@ -9,7 +9,11 @@ Basic Tiny chat within groups.
 
 == Description ==
 Buy Pro: http://teen-diary.com/wp-plugins/
-create a chatroom for each buddypress group, I make two version: bp-group-tinychat and bp-group-tinychat-pro, the difference is: with pro version, users will automatically be logged into the chat room with nickname is wordpress user's name. Just 5$ to buy pro version. just buy one times, when new version available, don't buy it again, just send me your email and i will sent it free for you.
+this plugins will create a chatroom for each buddypress group, I make two version: bp-group-tinychat and bp-group-tinychat-pro,
+the difference is: with pro version, users will automatically be logged into the chat room with nickname is 
+wordpress user's name. Just 5$ to buy pro version to help me, i am a student.
+just buy one times, when new version available, don't buy it again,
+just send me your purchase ID (when you buy in the first time) to sonofgod.vnn@gmail.com and i will sent it free for you.
 Once installed, activate Tiny Chat in the group admin area (or during group creation).
 
 
@@ -36,4 +40,5 @@ http://teen-diary.com/apps/image/screenshot-4.png
 
 == Notes ==
 
-If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name, please goto http://teen-diary.com/wp-plugins/ to have more imformation
+If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,
+please goto http://teen-diary.com/wp-plugins/ to have more imformation

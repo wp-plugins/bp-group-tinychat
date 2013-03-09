@@ -22,15 +22,10 @@ create new group and click enable group tinychat.
 
 == Screenshots ==
 
-http://www.youtube.com/watch?v=D_t4br_CpAE
-
-http://teen-diary.com/apps/image/screenshot-1.png
-
-http://teen-diary.com/apps/image/screenshot-2.png
-
-http://teen-diary.com/apps/image/screenshot-3.png
-
-http://teen-diary.com/apps/image/screenshot-4.png
+1. pro version: nickname is wordpress display name.
+2. all version: group name will be set for chat room name.
+3. setting.
+4. setting.
 
 == Notes ==
 

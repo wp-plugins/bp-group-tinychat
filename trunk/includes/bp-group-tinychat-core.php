@@ -125,22 +125,13 @@ class BP_Group_tinychat extends BP_Group_Extension {
 	function display() {
 		global $bp;
 		
-		if ( groups_is_user_member( $bp->loggedin_user->id, $bp->groups->current_group->id ) & !groups_is_user_mod( $bp->loggedin_user->id, $bp->groups->current_group->id ) & !groups_is_user_admin( $bp->loggedin_user->id, $bp->groups->current_group->id ) & !is_super_admin() ) {
+		if ( groups_is_user_member( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_mod( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_admin( $bp->loggedin_user->id, $bp->groups->current_group->id ) || is_super_admin() ) {
 			
 			$tinychat_display = true;
 			?>
-			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true", youtube: "none"}; </script><script src="http://tinychat.com/js/embed.js"></script>
+			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
             <?php
-              }
-            else if ( groups_is_user_mod( $bp->loggedin_user->id, $bp->groups->current_group->id ) 
-			 || groups_is_user_admin( $bp->loggedin_user->id, $bp->groups->current_group->id )
-			 || is_super_admin() ) {
-			
-			$tinychat_display = true;
-			?>
-			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true", youtube: "all"}; </script><script src="http://tinychat.com/js/embed.js"></script>
-            <?php
-
+             
 		} 
            else {
 			echo '<div id="message" class="error"><p>Group_tinychat only available to group members.</p></div>';

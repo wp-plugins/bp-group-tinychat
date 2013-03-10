@@ -14,7 +14,7 @@ pass: test
 Buy Pro: http://teen-diary.com/wp-plugins/
 this plugins will create a chatroom for each buddypress group,bp-group-tinychat and bp-group-tinychat-pro,
 the difference is: with pro version, users will automatically be logged into the chat room with nickname is 
-wordpress user's name. Just 5$ to buy pro version to help me, i am a student.
+wordpress user's name. Just 5$ to buy pro version to help me.
 just buy one times, when new version available, don't buy it again,
 just send me your purchase ID (when you buy in the first time) to sonofgod.vnn@gmail.com and i will sent it free for you.
 Once installed, activate Tiny Chat in the group admin area (or during group creation).

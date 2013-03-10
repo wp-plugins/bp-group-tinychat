@@ -11,7 +11,6 @@ if ( !defined( 'BP_GROUP_tinychat_SLUG' ) )
  *
  * Sets up global variables for your component.
  */
- <em
 function bp_group_tinychat_setup_globals() {
 	global $bp, $wpdb;
 

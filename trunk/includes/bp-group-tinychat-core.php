@@ -61,7 +61,7 @@ class BP_Group_tinychat extends BP_Group_Extension {
 			}
 			?>
 		/>
-		Enable Group tinychat
+		Enable <a href="http://wordpress.org/extend/plugins/bp-group-tinychat/" target="_blank">Group-Tinychat</a>
 		<hr>
 		<?php
 	}
@@ -95,7 +95,8 @@ class BP_Group_tinychat extends BP_Group_Extension {
 			}
 			?>
 		/>
-		Enable Group tinychat
+		Enable <a href="http://wordpress.org/extend/plugins/bp-group-tinychat/" target="_blank">Group-Tinychat</a>
+                
 		<hr>
 		<input type="submit" name="save" value="Save" />
 		<?php

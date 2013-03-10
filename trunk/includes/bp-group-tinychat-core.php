@@ -132,7 +132,7 @@ class BP_Group_tinychat extends BP_Group_Extension {
 			
 			$tinychat_display = true;
 			?>
-			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
+			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true", youtube: "none"}; </script><script src="http://tinychat.com/js/embed.js"></script>
             <?php
 
 		} else {

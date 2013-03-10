@@ -8,20 +8,11 @@ Stable tag: 1.0
 Chat Room for Buddypress Group
 
 == Description ==
-Demo pro: http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/
+Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test
 pass: test
-Buy Pro: http://teen-diary.com/wp-plugins/
-this plugins will create a chatroom for each buddypress group,bp-group-tinychat and bp-group-tinychat-pro,
-the difference is: with pro version, users will automatically be logged into the chat room with nickname is 
-wordpress user's name. Just 5$ to buy pro version to help me.
-just buy one times, when new version available, don't buy it again,
-just send me your purchase ID (when you buy in the first time) to sonofgod.vnn@gmail.com and i will sent it free for you.
-Once installed, activate Tiny Chat in the group admin area (or during group creation).
-</br>
-NOTE:
- - Buy Pro version before 31/3/2013 will save 2$, just 3$ buy <a href="http://teen-diary.com/wp-plugins/">Now</a>
-
+this plugins will create a chatroom for each buddypress group, with <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, users will automatically be logged into the chat room with nickname is 
+wordpress user's name.Once installed, activate Tiny Chat in the group admin area (or during group creation).
 
 == Installation ==
 
@@ -29,20 +20,24 @@ Download and upload the plugin to your plugins folder. Activate.
 create new group and click enable group tinychat.
 
 == Screenshots ==
-Video:
-" http://www.youtube.com/watch?v=D_t4br_CpAE "
+Watch Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
+<br>
 http://www.youtube.com/watch?v=D_t4br_CpAE
 
 http://teen-diary.com/apps/image/screenshot-1.png
+<br>
 1. pro version: nickname is wordpress display name.
 
 http://teen-diary.com/apps/image/screenshot-2.png
+<br>
 2. all version: group name will be set for chat room name.
 
 http://teen-diary.com/apps/image/screenshot-3.png
+<br>
 3. setting.
 
 http://teen-diary.com/apps/image/screenshot-4.png
+<br>
 4. setting.
 
 == Notes ==

@@ -10,8 +10,13 @@ Chat Room for Buddypress Group
 == Description ==
 Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
-this plugins will create a chatroom for each buddypress group, with <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone can play video youtube, soundcloud and will automatically log into the chat room with nickname is 
-wordpress user's name.Once installed, activate Tiny Chat in the group admin area (or during group creation).
+this plugins will create a chatroom for each buddypress group.<br>
+With <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone or only group admin can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+wordpress user's name.
+<br>
+With free version: Can't log in Chatroom auto. Only group admin can play youtube and soundcloud.
+<br> 
+Once installed, activate Tiny Chat in the group admin area (or during group creation).
 
 == Installation ==
 

@@ -9,8 +9,7 @@ Chat Room for Buddypress Group
 
 == Description ==
 Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
-user: test
-pass: test
+user: test pass: test <br>
 this plugins will create a chatroom for each buddypress group, with <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, users will automatically be logged into the chat room with nickname is 
 wordpress user's name.Once installed, activate Tiny Chat in the group admin area (or during group creation).
 

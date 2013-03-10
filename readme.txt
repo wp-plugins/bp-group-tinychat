@@ -18,6 +18,8 @@ wordpress user's name. Just 5$ to buy pro version to help me, i am a student.
 just buy one times, when new version available, don't buy it again,
 just send me your purchase ID (when you buy in the first time) to sonofgod.vnn@gmail.com and i will sent it free for you.
 Once installed, activate Tiny Chat in the group admin area (or during group creation).
+NOTE:
+ - Buy Pro version before 31/3/2013 will save 2$, just 3$ buy <a href="http://teen-diary.com/wp-plugins/">Now</a>
 
 
 == Installation ==

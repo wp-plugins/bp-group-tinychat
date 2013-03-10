@@ -5,7 +5,7 @@ Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
 Stable tag: 1.0
 
-Basic Tiny chat within groups.
+http://teen-diary.com/apps/image/screenshot-1.png
 
 == Description ==
 Demo pro: http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/
@@ -27,7 +27,7 @@ create new group and click enable group tinychat.
 
 == Screenshots ==
 Video:
-"http://www.youtube.com/watch?v=D_t4br_CpAE"
+" http://www.youtube.com/watch?v=D_t4br_CpAE "
 http://www.youtube.com/watch?v=D_t4br_CpAE
 
 http://teen-diary.com/apps/image/screenshot-1.png

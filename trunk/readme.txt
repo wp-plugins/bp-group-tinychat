@@ -27,6 +27,7 @@ create new group and click enable group tinychat.
 
 == Screenshots ==
 Video:
+"http://www.youtube.com/watch?v=D_t4br_CpAE"
 http://www.youtube.com/watch?v=D_t4br_CpAE
 
 http://teen-diary.com/apps/image/screenshot-1.png

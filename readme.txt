@@ -5,7 +5,7 @@ Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
 Stable tag: 1.0
 
-http://teen-diary.com/apps/image/screenshot-1.png
+Chat Room for Buddypress Group
 
 == Description ==
 Demo pro: http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/

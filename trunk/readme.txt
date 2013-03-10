@@ -8,8 +8,11 @@ Stable tag: 1.0
 Basic Tiny chat within groups.
 
 == Description ==
+Demo pro: http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/
+user: test
+pass: test
 Buy Pro: http://teen-diary.com/wp-plugins/
-this plugins will create a chatroom for each buddypress group, I make two version: bp-group-tinychat and bp-group-tinychat-pro,
+this plugins will create a chatroom for each buddypress group,bp-group-tinychat and bp-group-tinychat-pro,
 the difference is: with pro version, users will automatically be logged into the chat room with nickname is 
 wordpress user's name. Just 5$ to buy pro version to help me, i am a student.
 just buy one times, when new version available, don't buy it again,

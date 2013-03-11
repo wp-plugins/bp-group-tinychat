@@ -24,10 +24,14 @@ Download and upload the plugin to your plugins folder. Activate.
 create new group and click enable group tinychat.
 
 == Screenshots ==
-Watch Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
+Install Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
 <br>
 http://www.youtube.com/watch?v=D_t4br_CpAE
-
+<br>
+Important Video <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
+<br>
+http://www.youtube.com/watch?v=HTGud3wVDmI
+<br>
 http://teen-diary.com/apps/image/screenshot-1.png
 <br>
 1. pro version: nickname is wordpress display name.

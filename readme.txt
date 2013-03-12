@@ -17,6 +17,10 @@ wordpress user's name.
 With free version: Can't log in Chatroom auto. Can't play youtube and soundcloud.
 <br> 
 Once installed, activate Tiny Chat in the group admin area (or during group creation).
+<br>
+evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M">here</a> )
+<br>
+https://www.youtube.com/watch?v=f6U7GupYB4M
 
 == Installation ==
 

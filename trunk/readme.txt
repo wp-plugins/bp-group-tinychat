@@ -8,6 +8,7 @@ Stable tag: 1.0
 Chat Room for Buddypress Group
 
 == Description ==
+IMPORTANT: NO SPACE IN GROUP'S NAME PLEASE!!!!!
 Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
 this plugins will create a chatroom for each buddypress group.<br>

@@ -21,7 +21,7 @@ Once installed, activate Tiny Chat in the group admin area (or during group crea
 <br>
 evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M">here</a> )
 <br>
-00:00 14/3/2013: Wy website is dead, don't know how long. contact my email for support: sonofgod.vnn@gmail.com 
+00:00 14/3/2013: my website is dead, don't know how long. contact my email for support: sonofgod.vnn@gmail.com 
 
 == Installation ==
 

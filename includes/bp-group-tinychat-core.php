@@ -128,8 +128,10 @@ class BP_Group_tinychat extends BP_Group_Extension {
 		if ( groups_is_user_member( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_mod( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_admin( $bp->loggedin_user->id, $bp->groups->current_group->id ) || is_super_admin() ) {
 			
 			$tinychat_display = true;
+            $name = apply_filters( 'bp_get_group_name', $bp->groups->current_group->name );
+            $result = str_replace(" ", "", $name); 
 			?>
-			<script type="text/javascript">var tinychat = { room: "<?php bp_current_group_name() ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
+			<script type="text/javascript">var tinychat = { room: "<?php echo $result; ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
             <?php
              
 		} 

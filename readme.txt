@@ -22,6 +22,7 @@ wordpress user's name.
 <br>
 - evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M">here</a> )
 <br>
+- in new version 1.2: I would like for my users to have the option of adding a chat section to their group, while creating it. So that way there will be different groups with their own chat area.
 
 
 == Installation ==

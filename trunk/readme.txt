@@ -8,6 +8,7 @@ Stable tag: 1.1
 Chat Room for Buddypress Group
 
 == Description ==
+ 
 - This plugins will create a chatroom for each buddypress group.<br>
 - Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
@@ -21,7 +22,8 @@ wordpress user's name.
 - evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M">here</a> )
 <br>
 - in new version 1.2: solve the problem: Each group have its own group chat in tinychat.com, so they can add their own chat room into group.
-
+<br>
+- NOTE version 1.0: Who install version 1.0 before 17/03/2013 can't see "There is a new version of BuddyPress Group Tiny Chat available. View version 1.1 details or update now." Because i forgot "branch/tags" version 1.0 when sent to wordpress directory. I am so sorry, i am new member. Hope they can know about new version 1.1 are available.
 
 == Installation ==
 

@@ -129,7 +129,7 @@ class BP_Group_tinychat extends BP_Group_Extension {
 			
 			$tinychat_display = true;
             $name = apply_filters( 'bp_get_group_name', $bp->groups->current_group->name );
-            $result = str_replace(" ", "", $name); 
+            $result = str_replace(" ", "", $name);
 			?>
 			<script type="text/javascript">var tinychat = { room: "<?php echo $result; ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
             <?php

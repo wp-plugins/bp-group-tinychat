@@ -16,7 +16,7 @@ user: test pass: test <br>
 - With <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>
-- With free version: Can't log in Chatroom auto. Can't play youtube and soundcloud.
+- With free version: play youtube and soundcloud. Can't log in Chatroom auto.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>

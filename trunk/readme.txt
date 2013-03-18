@@ -68,4 +68,4 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 * first version
 
 = 1.1 =
-* fix error about group name, now can have space in the group name.
+* fix error about group name, now can have space in the group name and any length.

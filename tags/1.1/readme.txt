@@ -8,9 +8,8 @@ Stable tag: 1.1
 Chat Room for Buddypress Group
 
 == Description ==
+ 
 - This plugins will create a chatroom for each buddypress group.<br>
-- IMPORTANT: Make sure it contains no spaces in the group name, the group chat will not work!<br>
-you can replace space with " - ", I will fix this error in next version. <br>
 - Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
 - With <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
@@ -23,7 +22,8 @@ wordpress user's name.
 - evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M">here</a> )
 <br>
 - in new version 1.2: solve the problem: Each group have its own group chat in tinychat.com, so they can add their own chat room into group.
-
+<br>
+- NOTE version 1.0: Who install version 1.0 before 17/03/2013 can't see "There is a new version of BuddyPress Group Tiny Chat available. View version 1.1 details or update now." Because i forgot "branch/tags" version 1.0 when sent to wordpress directory. I am so sorry, i am new member. Hope they can know about new version 1.1 are available.
 
 == Installation ==
 
@@ -68,4 +68,4 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 * first version
 
 = 1.1 =
-* fix error about group name, now can have space in the group name.
+* fix error about group name, now can have space in the group name and any length.

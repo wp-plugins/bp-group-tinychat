@@ -3,7 +3,7 @@
 Plugin Name: BuddyPress Group Tiny Chat
 Plugin URI: http://wordpress.org/extend/plugins/bp-group-tinychat/
 Description: This plugin base on bp-group-livechat of  David Cartwright, thanks to him. chat room for groups use tinychat, with pro version ( goto <a href="http://teen-diary.com/wp-plugins/" ></a> )user can login to chat room auto with wordpress username. If you are using Advanced AJAX Page Loader or Ajaxify Wordpress Site(AWS), please add "group-chat" to "HREF Ignore List" in setting box of that plugin.
-Version: 1.0
+Version: 1.1
 Revision Date: Feb 2 2013
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4

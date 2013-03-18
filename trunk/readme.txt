@@ -3,7 +3,7 @@ Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
-Stable tag: 1.1
+Stable tag: 1.0
 
 Chat Room for Buddypress Group
 
@@ -66,6 +66,3 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 
 = 1.0 =
 * first version
-
-= 1.1 =
-* fix error about group name, now can have space in the group name.

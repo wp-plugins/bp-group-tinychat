@@ -3,12 +3,14 @@ Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
-Stable tag: 1.1
+Stable tag: 1.0
 
 Chat Room for Buddypress Group
 
 == Description ==
 - This plugins will create a chatroom for each buddypress group.<br>
+- If tinychat room can't connect, may be your group's name already in tinychat.com or too long, so you need change group name.
+<br>
 - IMPORTANT: Make sure it contains no spaces in the group name, the group chat will not work!<br>
 you can replace space with " - ", I will fix this error in next version. <br>
 - Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
@@ -59,13 +61,10 @@ http://teen-diary.com/apps/image/screenshot-4.png
 
 == Notes ==
 
-If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,
+If tinychat room can't connect, may be your group's name already in tinychat.com or too long, so you need change group's name,
 please goto http://teen-diary.com/wp-plugins/ to have more imformation
 
 == Changelog ==
 
 = 1.0 =
 * first version
-
-= 1.1 =
-* fix error about group name, now can have space in the group name.

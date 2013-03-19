@@ -6,7 +6,7 @@ Description: This plugin base on bp-group-livechat of  David Cartwright, thanks 
 Version: 1.1
 Revision Date: Feb 2 2013
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
-Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
+Tested up to: WordPress 3.5.1 / BuddyPress 1.7 beta 2
 License: AGPL
 Author: Van dat
 Author URI: http://wordpress.org/extend/plugins/bp-group-tinychat/

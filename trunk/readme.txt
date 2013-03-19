@@ -2,7 +2,7 @@
 Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
-Tested up to: WordPress 3.5.1 / BuddyPress 1.6.4
+Tested up to: WordPress 3.5.1 / BuddyPress 1.7 beta 2
 Stable tag: 1.1
 
 Chat Room for Buddypress Group

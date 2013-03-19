@@ -23,7 +23,7 @@ wordpress user's name.
 <br>
 - in new version 1.2: solve the problem: Each group have its own group chat in tinychat.com, so they can add their own chat room into group.
 <br>
-- NOTE version 1.0: Who install version 1.0 before 17/03/2013 can't see There is a new version of  BuddyPress Group Tiny Chat available. View version 1.1 details or update now. " Because i forgot "branch/tags" version 1.0 when sent to wordpress directory, so you need delete old version and install new version manually. I am so sorry, i am new member and this is first project , nobody teach me what to do, i much do every thing by myself, i just knew about wordpress THREE, FOUR month ago. Hope they can know about new version 1.1 are available.
+- NOTE version 1.0: Who install version 1.0 before 17/03/2013 can't see There is a new version of  BuddyPress Group Tiny Chat available. View version 1.1 details or update now. " Because i forgot "branch/tags" version 1.0 when sent to wordpress directory, so you need delete old version and install new version manually. I am so sorry, i am new member and this is first project , nobody teach me what to do, i much do every thing by myself, i just knew about wordpress THREE, FOUR month ago. Hope they can know about new version 1.1 are available
 
 == Installation ==
 

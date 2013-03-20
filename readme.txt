@@ -33,6 +33,7 @@ create new group and click enable group tinychat.
 - setting: group -> admin -> group chat. sometime you can't see anything because you install plugins after create group.
 
 == Screenshots ==
+
 Install Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
 <br>
 http://www.youtube.com/watch?v=D_t4br_CpAE

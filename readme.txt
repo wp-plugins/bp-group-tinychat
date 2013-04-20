@@ -11,7 +11,7 @@ Chat Room for Buddypress Group
  
 - This plugins will create a chatroom for each buddypress group.<br>
 - Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
-user: test pass: test <br>
+user: test pass: test Update 20/4: my website die. So sorry, We'll back soon.<br>
 - With <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>

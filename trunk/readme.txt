@@ -19,11 +19,6 @@ wordpress user's name.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>
-- evidence: ( watch video <a href="https://www.youtube.com/watch?v=f6U7GupYB4M"> here</a> )
-<br>
-- in new version 1.2: solve the problem: Each group have its own group chat in tinychat.com, so they can add their own chat room into group.
-<br>
-- NOTE version 1.0: Who install version 1.0 before 17/03/2013 can't see "There is a new version of BuddyPress Group Tiny Chat available. View version 1.1 details or update now." Because i forgot "branch/tags" version 1.0 when sent to wordpress directory. I am so sorry, i am new member. Hope they can know about new version 1.1 are available.
 
 == Installation ==
 
@@ -38,24 +33,9 @@ Install Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
 <br>
 http://www.youtube.com/watch?v=D_t4br_CpAE
 <br>
-Important Video <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
+Note: <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
 <br>
-http://www.youtube.com/watch?v=HTGud3wVDmI
-<br>
-http://teen-diary.com/apps/image/screenshot-1.png
-<br>
-1. pro version: nickname is wordpress display name.
 
-http://teen-diary.com/apps/image/screenshot-2.png
-<br>
-2. all version: group name will be set for chat room name.
-
-http://teen-diary.com/apps/image/screenshot-3.png
-<br>
-3. setting.
-
-http://teen-diary.com/apps/image/screenshot-4.png
-<br>
 4. setting.
 
 == Notes ==

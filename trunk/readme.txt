@@ -23,8 +23,7 @@ wordpress user's name.
 == Installation ==
 
 - Download and upload the plugin to your plugins folder. Activate.
-create new group and click enable group tinychat.
-<br>
+create new group and click enable group tinychat.<br>
 - setting: group -> admin -> group chat. sometime you can't see anything because you install plugins after create group.
 
 == Screenshots ==

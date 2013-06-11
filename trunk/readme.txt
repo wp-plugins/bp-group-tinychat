@@ -19,6 +19,7 @@ wordpress user's name.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>
+- Download via torrent: http://seedceo.com/details.php?id=116
 
 == Installation ==
 

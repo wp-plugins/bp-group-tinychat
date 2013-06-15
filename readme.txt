@@ -9,17 +9,19 @@ Chat Room for Buddypress Group
 
 == Description ==
  
-- This plugins will create a chatroom for each buddypress group. <br>
-- Demo <a href="http://teen-diary.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
+- Homepage: http://seedceo.com/wp-plugins/ <br>
+- This plugins will create a chatroom for each buddypress group.<br>
+- Only contains characters, number or spaces in group name. <br>
+- Demo  <a href="http://seedceo.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
-- With <a href="http://teen-diary.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
-wordpress user's name.
+- With <a href="http://seedceo.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+wordpress user's name, go to fullscreen (beta now).
 <br>
-- With free version: play youtube and soundcloud. Can't log in Chatroom auto.
+- With free version: Can't play youtube and soundcloud. Can't log in Chatroom auto.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>
-- Download via torrent: http://seedceo.com/details.php?id=116
+- Download via torrent: http://seedceo.com/details.php?id=116 <br>
 
 == Installation ==
 

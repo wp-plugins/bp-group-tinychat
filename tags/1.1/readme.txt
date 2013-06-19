@@ -14,10 +14,10 @@ Chat Room for Buddypress Group
 - Only contains characters, number or spaces in group name. <br>
 - Demo  <a href="http://seedceo.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
-- With <a href="http://seedceo.com/wp-plugins/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
-wordpress user's name, go to fullscreen (beta now).
+- With <a href="http://seedceo.com/wp-plugins/"> pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+wordpress user's name.
 <br>
-- With free version: Can't play youtube and soundcloud. Can't log in Chatroom auto.
+- With free version: Play youtube and soundcloud. Can't log in Chatroom auto and fullscreen chat.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>

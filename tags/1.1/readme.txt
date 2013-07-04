@@ -20,7 +20,7 @@ wordpress user's name.
 - With free version: Play youtube and soundcloud. Can't log in Chatroom auto and fullscreen chat.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
-<br>
+ <br>
 - Download via torrent: http://seedceo.com/details.php?id=116 <br>
 
 == Installation ==

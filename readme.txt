@@ -3,7 +3,7 @@ Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.5.1 / BuddyPress 1.7.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Chat Room for Buddypress Group
 
@@ -11,7 +11,7 @@ Chat Room for Buddypress Group
  
 - Homepage: http://seedceo.com/wp-plugins/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>
-- Only contains characters, number or spaces in group name. <br>
+- Can contains anything in group name. <br>
 - Demo  <a href="http://seedceo.com/wp-plugins/groups/bpgroupchat/group-chat/"> here</a>
 user: test pass: test <br>
 - With <a href="http://seedceo.com/wp-plugins/"> pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
@@ -52,3 +52,6 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 
 = 1.1 =
 * fix error about group name, now can have space in the group name and any length.
+
+= 1.2 =
+* Now, this plugin Can contains anything in group name.

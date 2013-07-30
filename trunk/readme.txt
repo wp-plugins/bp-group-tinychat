@@ -8,7 +8,8 @@ Stable tag: 1.2
 Chat Room for Buddypress Group
 
 == Description ==
- 
+
+- Please email me to get quickly support: sonofgod.vnn@gmail.com
 - Homepage: http://seedceo.com/wp-plugins/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>
 - Only contains characters, number or spaces in group name. <br>

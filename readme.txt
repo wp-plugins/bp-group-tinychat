@@ -10,7 +10,7 @@ Chat Room for Buddypress Group
 == Description ==
 
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
-- Homepage: http://wp-plugins.seedceo.com/ <br>
+- Homepage: http://wp-plugins.seedceo.com/  <br>
 - This plugins will create a chatroom for each buddypress group.<br>
 - Only contains characters, number or spaces in group name. <br>
 - With <a href="http://wp-plugins.seedceo.com/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 

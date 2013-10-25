@@ -17,6 +17,7 @@ user: test pass: test  <br>
 - With <a href="http://seedceo.com/wp-plugins/"> pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>
+- Change windown size (Pro only): /Include/embed.js on line 16->30.<br>
 - With free version: Play youtube and soundcloud. Can't log in Chatroom auto and fullscreen chat.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).

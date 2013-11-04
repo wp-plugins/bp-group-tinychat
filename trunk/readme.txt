@@ -21,6 +21,7 @@ wordpress user's name, go to fullscreen (beta now).
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>
+- To change chatroom site: fix include/embed.js line 16->30.
 - Download via torrent: http://seedceo.com/details.php?id=116 <br>
 
 == Installation ==

@@ -14,8 +14,7 @@ Chat Room for Buddypress Group
 - This plugins will create a chatroom for each buddypress group.<br>
 - Only contains characters, number or spaces in group name. <br>
 - With <a href="http://wp-plugins.seedceo.com/"> pro</a> version, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
-wordpress user's name, go to fullscreen (beta now).
-<br>
+wordpress user's name, go to fullscreen (beta now).<br>
 - Change windown size (Pro only): /Include/embed.js on line 16->30.<br>
 - With free version: Can't play youtube and soundcloud. Can't log in Chatroom auto.
 <br> 

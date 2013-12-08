@@ -128,11 +128,27 @@ class BP_Group_tinychat extends BP_Group_Extension {
 		if ( groups_is_user_member( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_mod( $bp->loggedin_user->id, $bp->groups->current_group->id ) || groups_is_user_admin( $bp->loggedin_user->id, $bp->groups->current_group->id ) || is_super_admin() ) {
 			
 			$tinychat_display = true;
-            $name = apply_filters( 'bp_get_group_name', $bp->groups->current_group->name );
-            $result = str_replace(" ", "", $name);
-            $arr=substr($result, 0, 25);
+			$name = apply_filters( 'bp_get_group_name', $bp->groups->current_group->name );
+                $urlparts = parse_url(site_url());
+                $domain = $urlparts [host];
+                $domainparts = explode(".", $domain);
+                $domain = $domainparts[count($domainparts)-2] . "." . $domainparts[count($domainparts)-1];
+                $domain = substr($domain, 0, 5);
+                $string = $domain.$name;
+                $string = ereg_replace("[^A-Za-z0-9]", "", $string );
+                $string = substr($string, 0, 15);
+                $name = strtolower($string);
+                for ($i = 5; $i < strlen($name); $i++) { 
+                  $asciiValue = ord($name{$i});
+                  if ($asciiValue >= 97 && $asciiValue < 106){ 
+                    $name{$i} = $asciiValue - 96; } 
+                  if ($asciiValue >= 106 && $asciiValue < 115){ 
+                    $name{$i} = $asciiValue - 105; }
+                  if ($asciiValue >= 115 && $asciiValue < 123){ 
+                    $name{$i} = $asciiValue - 114; }
+                  }  
 			?>
-			<script type="text/javascript">var tinychat = { room: "<?php echo $arr; ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
+			<script type="text/javascript">var tinychat = { room: "<?php echo $name; ?>", colorbk: "0xffffff", join: "auto", api: "list", owner: "none", desktop: "true"}; </script><script src="http://tinychat.com/js/embed.js"></script>
             <?php
              
 		} 

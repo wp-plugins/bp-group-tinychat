@@ -54,3 +54,6 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 
 = 1.2 =
 * Now, this plugin Can contains anything in group name.
+
+= 1.3 =
+* Fix all bugs.

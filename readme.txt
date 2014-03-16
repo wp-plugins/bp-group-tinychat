@@ -5,7 +5,7 @@ Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
 Tested up to: WordPress 3.7.1 / BuddyPress 1.8.1
 Stable tag: 1.3
 
-Chat Room for Buddypress Group
+Chat Room for Buddypress Group 
 
 == Description ==
 

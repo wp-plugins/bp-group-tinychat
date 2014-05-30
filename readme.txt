@@ -30,17 +30,13 @@ create new group and click enable group tinychat.
 <br>
 - Email me for help.
 <br>
-
-
-== Screenshots ==
-Install Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>
-<br>
-http://www.youtube.com/watch?v=D_t4br_CpAE
-<br>
-Note: <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
-<br>
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 
+== Screenshots ==
+Install Video <a href="https://www.youtube.com/watch?v=UJIZNbBBbtc ">here</a>
+<br>
+https://www.youtube.com/watch?v=UJIZNbBBbtc
+<br>
 
 == Notes ==
 

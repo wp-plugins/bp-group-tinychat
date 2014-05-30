@@ -31,7 +31,6 @@ create new group and click enable group tinychat.
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 <br>
 https://www.youtube.com/watch?v=UJIZNbBBbtc
-
 == Screenshots ==
 
 https://dykp.files.wordpress.com/2014/05/untitled.png

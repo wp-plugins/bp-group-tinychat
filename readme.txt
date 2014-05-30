@@ -21,7 +21,8 @@ wordpress user's name.
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
  <br>
 - Download via torrent: http://seedceo.com/details.php?id=116 <br>
-
+<br>
+- Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 == Installation ==
 
 - Download and upload the plugin to your plugins folder. Activate.

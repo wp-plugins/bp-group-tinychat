@@ -28,6 +28,8 @@ wordpress user's name.
 create new group and click enable group tinychat.
 <br>
 - setting: group -> admin -> group chat. sometime you can't see anything because you install plugins after create group.
+<br>
+- Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 
 == Screenshots ==
 Install Video <a href="http://www.youtube.com/watch?v=D_t4br_CpAE ">here</a>

@@ -20,6 +20,7 @@ wordpress user's name.
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
 <br>
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
+
 == Installation ==
 
 - Download and upload the plugin to your plugins folder. Activate.
@@ -28,14 +29,13 @@ create new group and click enable group tinychat.
 - Email me for help.
 <br>
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
+<br>
+https://www.youtube.com/watch?v=UJIZNbBBbtc
 
 == Screenshots ==
 
-Video <a href="https://www.youtube.com/watch?v=UJIZNbBBbtc ">Here.</a>
-<br>
-https://www.youtube.com/watch?v=UJIZNbBBbtc
-<br>
 https://dykp.files.wordpress.com/2014/05/untitled.png
+
 == Notes ==
 
 If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,

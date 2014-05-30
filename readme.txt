@@ -32,15 +32,15 @@ create new group and click enable group tinychat.
 
 == Screenshots ==
 
-Install Video <a href="https://www.youtube.com/watch?v=UJIZNbBBbtc ">here</a>
+Video <a href="https://www.youtube.com/watch?v=UJIZNbBBbtc ">Here.</a>
 <br>
 https://www.youtube.com/watch?v=UJIZNbBBbtc
 <br>
-<img src="https://dykp.files.wordpress.com/2014/05/untitled.png"></img>
+https://dykp.files.wordpress.com/2014/05/untitled.png
 == Notes ==
 
 If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,
-please goto http://teen-diary.com/wp-plugins/ to have more imformation
+please goto http://wp-plugins.seedceo.com/ to have more imformation
 
 == Changelog ==
 

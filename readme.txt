@@ -27,6 +27,7 @@ wordpress user's name.
 create new group and click enable group tinychat.
 <br>
 - Email me for help.
+- If your website use SSL certificate, EMAIL ME, I AM HAPPY TO HELP YOU FOR FREE.
 <br>
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 <br>

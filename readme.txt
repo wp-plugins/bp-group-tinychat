@@ -2,7 +2,7 @@
 Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
-Tested up to: WordPress 3.9 / BuddyPress 2.0
+Tested up to: WordPress 3.9.1 / BuddyPress 2.0
 Stable tag: 1.3
 
 Chat Room for Buddypress Group 
@@ -19,8 +19,6 @@ wordpress user's name.
 - With free version: Can't log in Chatroom auto, no fullscreen chat, no youtube video. Chat only.
 <br> 
 - Once installed, activate Tiny Chat in the group admin area (or during group creation).
- <br>
-- Download via torrent: http://seedceo.com/details.php?id=116 <br>
 <br>
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 == Installation ==
@@ -33,11 +31,12 @@ create new group and click enable group tinychat.
 - Follow this video: https://www.youtube.com/watch?v=UJIZNbBBbtc
 
 == Screenshots ==
+
 Install Video <a href="https://www.youtube.com/watch?v=UJIZNbBBbtc ">here</a>
 <br>
 https://www.youtube.com/watch?v=UJIZNbBBbtc
 <br>
-
+<img src="https://dykp.files.wordpress.com/2014/05/untitled.png"></img>
 == Notes ==
 
 If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,

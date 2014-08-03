@@ -56,4 +56,4 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 * Fix some bug.
 
 = 1.4 =
-* Update for new wordpress version.
+* Update for wordpress version 3.9.1 and buddypress 2.0.1

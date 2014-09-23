@@ -22,6 +22,7 @@ wordpress user's name.
 
 == Installation ==
 
+- Enable User Groups in Settings => Buddypress => Check User Groups.<br>
 - Download and upload the plugin to your plugins folder. Activate.
 Then create new group and click enable group tinychat.
 <br>

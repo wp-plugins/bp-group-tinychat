@@ -10,9 +10,9 @@ Chat Room for Buddypress Group
 == Description ==
 
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
-- Homepage: http://wp-plugins.seedceo.com/ <br>
+- Homepage: http://tinychat.link/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>
-- With <a href="http://wp-plugins.seedceo.com/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+- With <a href="http://tinychat.link/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>
 - With free version: Can't log in Chatroom auto, no fullscreen chat, no youtube video. Chat only.
@@ -40,7 +40,7 @@ Note: <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
 == Notes ==
 
 If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,
-please goto http://teen-diary.com/wp-plugins/ to have more imformation
+please goto http://tinychat.link to have more imformation
 
 == Changelog ==
 
@@ -57,4 +57,4 @@ please goto http://teen-diary.com/wp-plugins/ to have more imformation
 * Fix some bug.
 
 = 1.4 =
-* Update for new wordpress version.
+* Update for wordpress version 3.9.1 and buddypress 2.0.1

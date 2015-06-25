@@ -12,7 +12,7 @@ Chat Room for Buddypress Group
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
 - Homepage: http://tinychat.link/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>
-- With <a href="http://tinychat.link/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+- With <a href="http://tinychat.link/version-1-4/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>
 - With free version: Can't log in Chatroom auto, no fullscreen chat, no youtube video. Chat only.

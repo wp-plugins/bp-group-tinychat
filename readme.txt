@@ -2,13 +2,14 @@
 Contributors: Vandat
 Tags: buddypress, chat, groups, groups chat, Tinychat
 Requires at least: WordPress 3.1.0, BuddyPress 1.2.8
-Tested up to: 4.1
+Tested up to: 4.2.3
 Stable tag: 1.4
 
 Chat Room for Buddypress Group
 
 == Description ==
 
+- News @ 7/2015: Currently not work on mobile browser because tinychat.com disable it, will be fix as soon as I can.
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
 - Homepage: http://tinychat.link/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>

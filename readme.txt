@@ -9,6 +9,7 @@ Chat Room for Buddypress Group
 
 == Description ==
 
+- @9/2015 the chat room currently unavailable because something wrong with tinychat.com, I'm going to find out solution.
 - News @ 7/2015: Currently not work on mobile browser because tinychat.com disable it.
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
 - Homepage: http://tinychat.link/ <br>

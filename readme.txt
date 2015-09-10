@@ -11,9 +11,9 @@ Chat Room for Buddypress Group
 
 - News @ 7/2015: Currently not work on mobile browser because tinychat.com disable it, will be fix as soon as I can.
 - Please email me to get quickly support: sonofgod.vnn@gmail.com
-- Homepage: http://tinychat.link/ <br>
+- Homepage: http://tiny.tiiren.com/ <br>
 - This plugins will create a chatroom for each buddypress group.<br>
-- With <a href="http://tinychat.link/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
+- With <a href="http://tiny.tiiren.com/"> Pro</a> version, Allow Fullscreen Chat, everyone can play youtube video, soundcloud and will automatically log into the chat room with nickname is 
 wordpress user's name.
 <br>
 - With free version: Can't log in Chatroom auto, no fullscreen chat, no youtube video. Chat only.
@@ -41,7 +41,7 @@ Note: <a href="http://www.youtube.com/watch?v=HTGud3wVDmI">here</a>
 == Notes ==
 
 If tinychat room can't connect, may be your group's name already in tinychat.com, so you need change group's name,
-please goto http://tinychat.link to have more imformation
+please goto http://tiny.tiiren.com to have more imformation
 
 == Changelog ==
 
